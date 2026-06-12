@@ -646,3 +646,17 @@ input:checked + .slider::before {
 .moon {
   right: 6px;
 }
+
+/* ─── Work Experience Date ───────────────────────── */
+.experience-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 1rem;
+}
+
+.work-date {
+  color: var(--primary);
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
