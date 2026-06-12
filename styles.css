@@ -648,7 +648,7 @@ input:checked + .slider::before {
 }
 
 /* ─── Work Experience Date ───────────────────────── */
-.experience-item {
+/* .experience-item {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -658,5 +658,18 @@ input:checked + .slider::before {
 .work-date {
   color: var(--primary);
   font-size: 0.95rem;
+  white-space: nowrap;
+} */
+
+.experience-item {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  width: 100%;
+  gap: 1rem;
+}
+
+.work-date {
+  color: var(--text-color);
   white-space: nowrap;
 }
