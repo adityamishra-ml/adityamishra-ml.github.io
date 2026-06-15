@@ -659,3 +659,4 @@ input:checked + .slider::before {
   color: var(--text-color);
   white-space: nowrap;
 }
+
