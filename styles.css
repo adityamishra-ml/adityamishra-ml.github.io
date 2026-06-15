@@ -660,25 +660,3 @@ input:checked + .slider::before {
   white-space: nowrap;
 }
 
-.education-school {
-  margin-top: 0.15rem;
-  font-size: 0.95rem;
-  color: var(--text-light);
-}
-
-.education-item {
-  margin-bottom: 1.5rem;
-}
-
-.education-header {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 1rem;
-  align-items: baseline;
-}
-
-.education-school {
-  margin-top: 0.15rem;
-  font-size: 0.95rem;
-  color: var(--text-light);
-}
