@@ -660,3 +660,24 @@ input:checked + .slider::before {
   white-space: nowrap;
 }
 
+.education-item {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: start;
+}
+
+.education-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.education-degree {
+  font-weight: 500;
+}
+
+.education-school {
+  margin-top: 0.15rem;
+  font-size: 0.95rem;
+  color: var(--text-light);
+}
