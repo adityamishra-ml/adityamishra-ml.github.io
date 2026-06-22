@@ -4,7 +4,7 @@ Welcome to the source repository for my personal website, showcasing my work in 
 
 ## 🌐 Live Demo
 
-Visit the live site: [https://adityamishra-ml.github.io/homepage](https://adityamishra-ml.github.io/homepage)
+Visit the live site: [https://adityamishra-ml.github.io](https://adityamishra-ml.github.io)
 
 > 📱 For best results on mobile devices, switch your screen to **landscape mode**.
 > <img src="misc/wesbite-screenshot.png" alt="home">
